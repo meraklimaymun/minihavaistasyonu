@@ -33,7 +33,7 @@
 **         ladyada tarafından yazılan DHT22 ısı ve nem sensörü kütüphanesinden,          **
 **                    https://github.com/adafruit/DHT-sensor-library                     **
 **  SparkFun Electronics'ten V10 Mike Grusin tarafından yazılan BMP180 kütüphanesinden   **
-**                                 http://bit.ly/1xZdcGb                                 **
+**                 https://github.com/sparkfun/BMP180_Breakout                          **
 **                                  faydalanılmıştır...                                  **
 **                                                                                       **
 **                 Açık kaynak donanım ve yazılım ruhu sizinle olsun.                    **
