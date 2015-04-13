@@ -33,10 +33,12 @@
 **         ladyada tarafından yazılan DHT22 ısı ve nem sensörü kütüphanesinden,          **
 **                    https://github.com/adafruit/DHT-sensor-library                     **
 **  SparkFun Electronics'ten V10 Mike Grusin tarafından yazılan BMP180 kütüphanesinden   **
-**                                http://bit.ly/1yk0TYm                                  **
+**                 https://github.com/sparkfun/BMP180_Breakout                           **
 **                                  faydalanılmıştır...                                  **
 **                                                                                       **
-**                 Açık kaynak donanım ve yazılım ruhu sizinle olsun.                    **
+**      Not: Bu kodun çalışması için "basinc_bitmap.c, downarrow.c, equal.c, err.c,      **
+**        gunesli.c, intro.c, karli.c, nem_bitmap.c, sicaklik_bitmap.c, uparrow.c,       **
+**  ve  yagmurlu.c" dosyalarını bu kod taslağını kaydettiğiniz dizine kopyalamalısınız   **
 **                                                                                       **
 *******************************************************************************************
 */
